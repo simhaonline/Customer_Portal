@@ -6,11 +6,13 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@include file="header.jsp"%>
+
 <html>
 <head>
-    <title>$Title$</title>
+    <title>About Us</title>
 </head>
 <body>
-$END$
+ABOUT US
 </body>
 </html>

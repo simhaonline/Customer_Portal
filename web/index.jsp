@@ -10,13 +10,10 @@
   <div class="container" ng-controller="MenuController">
     <div class="navbar-header">
 
+      <%@include file="header.jsp"%>
 
-      <header>
-        <h1>Customer Portal</h1>
-      </header>
-    </div>
 
-    <div id="menu" class="collapse collapse_on_focus_out navbar-collapse">
+      <div id="menu" class="collapse collapse_on_focus_out navbar-collapse">
       <ul class="nav navbar-nav navbar-right">
         <li class=""><a href="aboutUs.jsp">About Us</a></li>
 
